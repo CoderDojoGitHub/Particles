@@ -1,6 +1,7 @@
 {
   title: "Animations in Javascript",
   summary: "Build animations in the web browser using javascript and the D3.js library.",
+  author_github_username: "KartikTalwar",
   events: [
     {
       location: "GitHub 548 4th St San Francisco CA 94107",
