@@ -7,7 +7,7 @@
       location: "GitHub 548 4th St San Francisco CA 94107",
       date: "Sat Feb 16 2013 12:00:00 GMT-0700 (PDT)",
       length_in_hours: 2,
-      teachers_github_username: "jonmagic"
+      teacher_github_username: "jonmagic"
     }
   ]
 }
